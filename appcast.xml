@@ -5,6 +5,24 @@
     <link>https://github.com/gambidrissi-dev/Folio-Share</link>
     <description>Mises à jour de Folio</description>
     <item>
+      <title>Version 1.1.0</title>
+      <description><![CDATA[
+<h3>Deux nouveaux outils : <b>Redaction</b> et <b>Nettoyer</b>, dans Sécurité</h3>
+<p><b>Redaction</b> cherche un texte (recherche PDFKit native) et le noircit pour de vrai : la page passe par un aplatissement en image, donc rien ne reste récupérable sous le noir — contrairement à un simple rectangle dessiné par-dessus.</p>
+<p><b>Nettoyer</b> aplatit un document en image haute fidélité pour retirer ce qui ne se voit pas : JavaScript, pièces jointes, champs de formulaire, métadonnées.</p>
+<p>Les deux partagent le même mécanisme qu'<code>aplatir</code>, déjà utilisé par Compresser.</p>
+<p>Et deux corrections : <b>Pivoter</b> accepte maintenant une plage de pages (vide = toutes, comme Extraire), et <b>Réorganiser</b> anime correctement le glisser-déposer (l'identité de liste suivait la position plutôt que la page).</p>
+      ]]></description>
+      <pubDate>Thu, 17 Sep 2026 20:03:27 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Folio-Share/releases/download/v1.1.0/Folio-1.1.0.zip"
+                 sparkle:edSignature="/QvkNQkUECh42MJE1mzu/RRT5d4RrNUcdC9yLwXqckqKm1G4CrZQH+QLBN4tqONwWOBRWYDhLl0/UheluP7gDA=="
+                 length="1625948"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.0.0</title>
       <description><![CDATA[
 <h3>Ajoute l'icône de l'app</h3>
