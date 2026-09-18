@@ -5,6 +5,22 @@
     <link>https://github.com/gambidrissi-dev/Folio-Share</link>
     <description>Mises à jour de Folio</description>
     <item>
+      <title>Version 1.2.0</title>
+      <description><![CDATA[
+<h3>Nouvel outil <b>Diviser par taille</b>, et le glisser-déposer de Fusionner anime enfin</h3>
+<p><b>Diviser par taille</b> découpe un gros PDF en plusieurs fichiers qui restent sous une limite choisie (en Mo) — utile pour un envoi par email ou une limite d'upload.</p>
+<p>La liste de Fusionner avait le même défaut que Réorganiser avant elle : l'identité suivait la position plutôt que le document, donc réordonner ne s'animait pas (même si le résultat final était juste). Chaque entrée porte maintenant son propre identifiant.</p>
+      ]]></description>
+      <pubDate>Fri, 18 Sep 2026 20:17:09 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Folio-Share/releases/download/v1.2.0/Folio-1.2.0.zip"
+                 sparkle:edSignature="kZb49XgvGaPACyKU2u38PNyG+D8lBjcEZcevj45mK9Rd0PMbBxtuWtuW+sef+2MPIqJUCYbE6ipVJzey79niCg=="
+                 length="1637756"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.1.0</title>
       <description><![CDATA[
 <h3>Deux nouveaux outils : <b>Redaction</b> et <b>Nettoyer</b>, dans Sécurité</h3>
